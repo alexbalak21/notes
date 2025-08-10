@@ -7,7 +7,7 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.snow.css" rel="stylesheet" />
-    <link href="{{ resource('base.css') }}" rel="stylesheet" />
+    <link href="/css/base.css" rel="stylesheet" />
     <title>Notes</title>
   </head>
   <body>
@@ -215,6 +215,6 @@
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.js"></script>
-    <script src="{{ resource('script.js') }}"></script>
+    <script src="/js/script.js"></script>
   </body>
 </html>
